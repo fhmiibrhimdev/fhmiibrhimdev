@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Fahmi Ibrahim 👋
 
-<!--
-**fhmiibrhimdev/fhmiibrhimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Software and Hardware Developer
+I'm a Fullstack Software and Hardware Developer with over 1 years of experience in the technology industry. I specialize in developing software applications from both the Front-end and Back-end perspectives, as well as developing hardware applications.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience and expertise in several technology areas, including:
+- Programming Languages: I'm proficient in several programming languages such as C++ Arduino, Python, HTML, CSS, JavaScript, and PHP.
+- Frameworks: Laravel, ReactJS, ViteJS
+- Front-end Development: I have experience in Front-end web application development using technologies like HTML, CSS, JavaScript, Flutter and several popular frameworks like React, Blade.
+- Back-end Development: I'm also skilled in developing Back-end applications using several programming languages like PHP, Dart as well as several frameworks like Laravel.
+- Hardware Development: I have experience in developing hardware using programming languages like C++, Python, as well as several platforms like Arduino, and ESP8266/ESP32 for IoT. And have knowledge about MQTT.
+- Database: I have skills in designing and developing databases using MySQL, PostgreSQL.
+- Server: I'm an experienced nginx server administrator. I have extensive experience in forwarding local IPs with nginx proxy, installing and maintaining nginx, and managing company domains.
+
+### Recent Projects
+
+- [Laravel React Vite Stisla](https://github.com/fhmiibrhimdev/laravel-react-vite-stisla) - Auth JWT Multirole + CRUD, Searching, Pagination, Showing with Laravel React Vite and Template admin stisla!
+- SmartHome web, android - Private
+- [And others](https://github.com/fhmiibrhimdev)
+
+### Contact
+
+- Email: mhmmdfhmi646@gmail.com
+- Facebook: [Fahmi Ibrahim](https://facebook.com/fahmiibrahimdev)
